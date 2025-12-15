@@ -15,7 +15,7 @@ header {
   align-items: center;
 }
 
-ul {
+.nav-list {
   display: flex;
   column-gap: 50px;
 }
@@ -76,5 +76,27 @@ button {
   font-size: 24px;
   line-height: 32px;
   letter-spacing: 0px;
+  cursor: pointer;
   color: #ffffff;
+}
+/* Footer */
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 45px 0;
+  background-color: #284069;
+}
+h2 {
+  margin-bottom: 24px;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  letter-spacing: 0px;
+  color: #ffffff;
+}
+.social-list {
+  display: flex;
+  gap: 32px;
 }
