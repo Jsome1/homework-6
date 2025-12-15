@@ -33,6 +33,7 @@ project-folder/
 
 🚀 How to Run
 View the live website:
+
 Open Live Demo → https://jsome1.github.io/homework-6/
 
 Clone the repository (optional):
