@@ -29,10 +29,10 @@ project-folder/
 
 🚀 How to Run
 View the live website:
-Open Live Demo
+[Open Live Demo](https://jsome1.github.io/homework-6/)
 
 Clone the repository (optional):
-Click to clone repository
+[Click to clone repository](https://github.com/Jsome1/homework-6.git)
 
 👤 Author
 Giorgi Khvedelidze
